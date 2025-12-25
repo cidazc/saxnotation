@@ -1,11 +1,3 @@
-Excellent — let’s finalize the design cleanly and give you a short, practical README you can keep with the project.
-
-Below is a clear specification for Version 2, followed by a concise README.md you can literally copy-paste.
-
-I’ll keep this implementation-oriented, not theoretical.
-
-⸻
-
 📦 Sax Guide — Version 2 (Unified Inputs)
 
 Supported inputs (Version 2)
@@ -192,16 +184,3 @@ Inspired by chant, folk transmission, and rehearsal practice.
 	•	Version 2: MuseScore + MIDI + text (current)
 
 ⸻
-
-If you want, next we can:
-	•	Cleanly separate this into v1/ and v2/
-	•	Add a one-page liturgical PDF layout
-	•	Add breath marks or phrase bars
-	•	Handle accidentals carefully for hymns
-
-But as it stands:
-✅ coherent
-✅ usable
-✅ future-proof
-
-This is a very solid tool.
